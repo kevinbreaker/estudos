@@ -17,6 +17,11 @@
 [O que TODO desenvolvedor JavaScript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86) | Iniciante | Artigo | 🇧🇷
 
 ## Front-end
+### API Browser 
+Título | Nivel | Tipo  | Idioma
+------- |------ | ----  | ------
+[Using IndexedDB [MDN]](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) | Iniciante | Artigo | 🇺🇸 
+[IndexedDB. Storing data in Browser](https://javascript.info/indexeddb) | Iniciante | Artigo | 🇺🇸 
 ###  Vuejs
 Título | Nivel | Tipo  | Idioma
 ------- |------ | ----  | ------
